@@ -20,12 +20,4 @@
 
 </p>
 <br/>
-<!-- <h2 style="font-size:30px" align ="left" width = 100%><u>Github Statistics</u></h2> -->
-<!-- <div align="center">
-  <a>
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mwanga45&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
-  </a>
-  <a/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shevon14&theme=react&line_height=40&hide=css"/>
-  </a>
-</div> -->
+

@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/Typescript-1572B6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"  />
   <img src="https://img.shields.io/badge/Java-C70039?style=for-the-badge&logo=java&logoColor=white" alt="java" />
   <img src="https://img.shields.io/badge/ReactNative-00acee?style=for-the-badge&logo=react&logoColor=white" alt="reactnative" />
-  <img src="https://img.shields.io/badge/Redux-7D3C98?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
+<!--   <img src="https://img.shields.io/badge/Redux-7D3C98?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="android" />
   <img src="https://img.shields.io/badge/swift-C70039?style=for-the-badge&logo=swift&logoColor=white" alt="ios" />
   <img src="https://img.shields.io/badge/Flutter-00acee?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter" />
@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/JIRA-00acee?style=for-the-badge&logo=jira&logoColor=white" alt="jira" />
   <img src="https://img.shields.io/badge/Postman-E34F26?style=for-the-badge&logo=postman&logoColor=white" alt="postman" />
   <img src="https://img.shields.io/badge/SourceTree-1572B6?style=for-the-badge&logo=sourcetree&logoColor=white" alt="sourcetree" />
-  <img src="https://img.shields.io/badge/Bitbucket-21618C?style=for-the-badge&logo=bitbucket&logoColor=white" alt=bitbucket"" />
+  <img src="https://img.shields.io/badge/Bitbucket-21618C?style=for-the-badge&logo=bitbucket&logoColor=white" alt=bitbucket"" /> -->
 </p>
 <br/>
 <h2 style="font-size:30px" align ="left" width = 100%><u>Github Statistics</u></h2>

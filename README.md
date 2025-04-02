@@ -1,10 +1,8 @@
 <div align="center">
-   <h2 style="font-size:30px">Hi 👋, I'm Shevon Soyza</h2>
-   <h3 align="center">Software Engineer | Technical Content Creator</h3>
-  <p> My passion for coding and interest in algorithms and logics within the codes have driven my career thus far.</br>I believe in the power of mobile applications to change the way people interact with technology, and I'm excited to be a part of that change. </br> </br>
+   <h2 style="font-size:30px">Hi 👋, I'm Issa Mwanga</h2>
+   <h3 align="center">Software developer</h3>
+  <p> My passion for coding and interest in React tech and Golang as backend within the codes have driven my career thus far.</br>I believe in the power of mobile applications and Web technology to change the way people interact with technology, and I'm excited to be a part of that change. </br> </br>
     Constantly seeking out new challenges and opportunities to grow my skills, and I'm always eager to learn from others in the community.
-In my free time, you can find me tinkering with new technologies, experimenting with different coding techniques, and exploring the latest advancements in mobile app development.
-Feel free to check out my works on here, and don't hesitate to reach out if you have any questions or would like to collaborate on a project. Thanks for stopping by!
   </p>
    <a href="mailto: shevonsoyza96@gmail.com" target="_blank"><img height="28" src = "https://img.shields.io/badge/gmail-036431 ?&style=for-the-badge&logo=gmail&logoColor=white"></a>
    <a href="https://www.linkedin.com/in/shevon-soyza" target="_blank"> <img height="28" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>

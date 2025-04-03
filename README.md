@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/Javascript-FFC300?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
   <img src="https://img.shields.io/badge/Typescript-1572B6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"  />
   <img src="https://img.shields.io/badge/ReactNative-00acee?style=for-the-badge&logo=react&logoColor=white" alt="reactnative" />
-  <img src="https://img.shields.io/badge/Golang-00acee?style=for-the-badge&logo=react&logoColor=white" alt="Golang" />
+  <img src="https://img.shields.io/badge/Golang-00acee?style=for-the-badge&logo=golang&logoColor=red" alt="Golang" />
 
 </p>
 <br/>
